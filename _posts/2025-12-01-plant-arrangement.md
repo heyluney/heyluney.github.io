@@ -3,6 +3,7 @@ layout: post
 title: "This is my plant arrangement"
 ---
 
-# Welcome
+# This is one aspect of a living room plant collection
 
-This will be a blog about random musings.
+![My plant arrangement!](/assets/images/plants.jpg)
+
