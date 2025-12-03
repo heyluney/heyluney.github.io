@@ -12,8 +12,13 @@ body {
       gap: 20px;
 }
 
-.column {
+.side_column {
       flex: 1;
+      padding: 15px;
+}
+
+.main_column {
+      flex: 2;
       padding: 15px;
 }
 
