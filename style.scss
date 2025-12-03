@@ -1,8 +1,9 @@
 ---
 ---
+@import 'variables';
 
 body {
-      font-family: Arial, Times, serif;
+      font-family: $arial;
       margin: 8vw;
 }
 
