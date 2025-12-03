@@ -5,6 +5,17 @@ body {
       font-family: Arial, Times, serif;
 }
 
+.container {
+      display: flex;
+      gap: 20px;
+}
+
+.column {
+      flex: 1;
+      padding: 15px;
+      border: 1px solid #ccc;
+}
+
 // body {
 //     font: 18px/1.4 $times;
 //     background: red;
