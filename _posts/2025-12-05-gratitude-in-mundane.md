@@ -1,3 +1,5 @@
+![ficus_tineke!](/assets/images/ficus_tineke.jpg){: height="250"}
+
 ### Ordinary things can be fun
 
 I think there is a tendency for chores to be onerous, something that we feel obligated to do. We don't look forward to doing them. We feel they eat up our time. That, if it weren't for things like getting our oil changed, going grocery shopping, or doing laundry, we could be doing more "fun" things.
