@@ -1,4 +1,4 @@
-![ficus_tineke!](/assets/images/ficus_tineke.jpg){: height="250"}
+![ficus_tineke!](/assets/images/ficus_tineke.jpg){: height="400"}
 
 ### Ordinary things can be fun
 
