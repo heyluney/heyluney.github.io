@@ -2,8 +2,9 @@
 ---
 @import 'variables';
 
+
 body {
-      font-family: $arial;
+      font-family: "Vend Sans", $arial, sans-serif;
       margin: 8vw;
 }
 
@@ -21,3 +22,5 @@ body {
       flex: 2;
       padding: 15px;
 }
+
+
