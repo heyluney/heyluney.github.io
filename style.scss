@@ -8,6 +8,11 @@ body {
       margin: 8vw;
 }
 
+/* removes bullet points from lists */
+ul {
+      list-style-type: none;
+}
+
 .container {
       display: flex;
       gap: 20px;
