@@ -1,4 +1,4 @@
-![ficus_audrey!](/assets/images/ficus_audrey.jpg)
+![ficus_audrey!](/assets/images/ficus_audrey.jpg){: height="700"}
 
 
 I think there is beauty in things not always being perfect. Nature is imperfect. No leaf is perfectly symmetrical.
