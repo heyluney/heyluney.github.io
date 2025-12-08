@@ -1,3 +1,6 @@
+![ficus_audrey!](/assets/images/ficus_audrey.jpg)
+
+
 I think there is beauty in things not always being perfect. Nature is imperfect. No leaf is perfectly symmetrical.
 
 ### Mass produced items are too perfect
