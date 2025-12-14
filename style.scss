@@ -29,3 +29,10 @@ ul {
 }
 
 
+.main_column img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* This is the key property */
+  display: block; /* Helps with alignment issues */
+}
+
