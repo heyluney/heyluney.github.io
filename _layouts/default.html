@@ -24,21 +24,23 @@
   
 <div class="container">
   <div class="side_column">
-    <ul>
-      {% for post in site.posts %}
-          {% assign monthStamp = post.date | date: "%B" %}
+    {% assign monthStamp = post.date | date: "%B" %}
 
-          {% if monthStamp == "December" %}
           <details>December</details>
             <summary>
-              <li>
-                <a href="{{ post.url }}">{{ post.title }} {{monthStamp}}</a>
-              </li>
+              <ul>
+                {% for post in site.posts %}
+                  {% if monthStamp == "December" %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }} {{monthStamp}}</a>
+                </li>
+                  {% endif %}
+                {% endfor %}
+                </ul> 
             </summary>
         </details>
-          {% endif %}
-      {% endfor %}
-    </ul> 
+
+    
   </div>
 
   <div class="main_column">
