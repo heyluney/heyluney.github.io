@@ -19,11 +19,12 @@
   
 <div class="container">
   <div class="side_column">
-    {% assign monthStamp = post.date | date: "%B" %}
     <!-- {% assign posts_by_year = site.posts | group_by:"month" %} -->
 
           <details>
             <summary>December</summary>
+                {% assign monthStamp = post.date | date: "%B" %}
+
                 <ul>
                   {% for post in site.posts %}
       
