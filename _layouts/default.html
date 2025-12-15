@@ -28,15 +28,11 @@
 
           <details>
             <summary>December</summary>
-              <ul>
-                {% for post in site.posts %}
-                  {% if monthStamp == "December" %}
-                    <li>
+                {% for post in site.posts | group_by: monthStamp %}
+                  <!-- {% if monthStamp == "December" %} -->
                       <a href="{{ post.url }}">{{ post.title }} {{monthStamp}}</a>
-                    </li>
-                  {% endif %}
+                  <!-- {% endif %} -->
                 {% endfor %}
-                </ul> 
             </details>
 
     
