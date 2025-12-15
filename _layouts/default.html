@@ -21,6 +21,10 @@
   <div class="side_column">
     {% assign posts_by_year = posts | group_by:"year" %}
 
+    <pre>
+  {{ posts_by_year | jsonify | escape }}
+    </pre>
+
      {% for year in posts_by_year %}
       <h2>{{year.name}}</h2>
       {% assign posts_by_month = year.items | group_by:"month" %}
