@@ -22,7 +22,7 @@
       {% for post in site.posts %}
           {% assign monthStamp = post.date | date: "%B" %}
 
-          {% if monthStamp = "December" %}
+          {% if monthStamp == "December" %}
       
           <li>
             <a href="{{ post.url }}">{{ post.title }} {{monthStamp}}</a>
