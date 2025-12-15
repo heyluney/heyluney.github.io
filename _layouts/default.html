@@ -16,23 +16,19 @@
 
 <h1>The Minimalist</h1>
 
-
-<!-- <details>
-  <summary>Details</summary>
-  Something small enough to escape casual notice.
-</details> -->
   
 <div class="container">
   <div class="side_column">
     {% assign monthStamp = post.date | date: "%B" %}
+    <!-- {% assign posts_by_year = site.posts | group_by:"month" %} -->
 
           <details>
             <summary>December</summary>
-                {% for post in site.posts | group_by: monthStamp %}
+                <!-- {% for post in site.posts | group_by: monthStamp %} -->
                   <!-- {% if monthStamp == "December" %} -->
                       <a href="{{ post.url }}">{{ post.title }} {{monthStamp}}</a>
                   <!-- {% endif %} -->
-                {% endfor %}
+                <!-- {% endfor %} -->
             </details>
 
     
