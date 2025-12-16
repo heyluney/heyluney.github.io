@@ -21,7 +21,7 @@
   <div class="side_column">
     {% for post in site.posts %}
       {% assign currentdate = post.date | date: "%B %Y" %}
-      {% assign detailed_date = post.date | date: "%m-%d" %}
+      {% assign detailed_date = post.date | date: "%d" %}
       {% if currentdate != date %}
         {% unless forloop.first %}</ul>{% endunless %}
         <h3 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h3>
