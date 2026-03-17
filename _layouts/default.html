@@ -36,9 +36,9 @@
   <div class="main_column">
      <!-- <h2>{{page.title}}</h2> -->
      {{content}}
+     {% include comment-section.html url=page.url %}
   </div>
 
-  {% include comment-section.html url=page.url %}
 </div>
 
   
