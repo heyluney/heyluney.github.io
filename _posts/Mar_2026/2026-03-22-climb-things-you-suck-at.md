@@ -15,5 +15,4 @@ When we climb things that aren't our style, we are forcing ourselves outside of 
 When you climb things that you don't consider yourself to be good at, but you make progress on it anyway, your confidence will grow. This will in turn lead you to have more motivation for tackling that genre of problem (positive feedback loop)!
 
 ### More skills, being a better well-rounded climber
-
-
+This in turn will lead you to being a better well-rounded boulderer. More styles and moves are unlocked to you! You are able to try more styles without fear. 
