@@ -23,11 +23,4 @@ Have you ever looked at a new boulder set and gravitated towards certain boulder
 
 ### When you work on your weaknesses, you become a better all-around climber
 
-When you work on things that you don't want to work on, the progress you make (and the new tools you gain!) will serve you in future climbs. Furthermore, the confidence that you build will be a positive feedback loop. 
-
-
-
-
-
-
-##
+When you work on things that you don't want to work on, the progress you make (and the new tools you gain!) will serve you in future climbs. Furthermore, the confidence that you build will be a positive feedback loop - you'll see the gains you've made, be enheartened, and want to tackle more boulders of that style.
