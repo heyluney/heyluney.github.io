@@ -34,7 +34,7 @@
   </div>
 
   <div class="main_column">
-     <!-- <h2>{{page.title}}</h2> -->
+     <p>{% render_time page rendered at: %}</p>
      {{content}}
      {% include comment-section.html url=page.url %}
   </div>
