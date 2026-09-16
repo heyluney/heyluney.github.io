@@ -1,3 +1,9 @@
-# Blahblah
+---
+layout: post
+title: "Why I love NYC"
+tags: human_cities
+---
 
-Testing
+It's more eco-friendly. 
+
+I don't have to have a car. I use less electricity. The city is more designed for humans (rather than cars). The city is more interesting from a pedestrian's perspective (e.g. more different styled housing, bode
