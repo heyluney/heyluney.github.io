@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I love NYC"
-tags: human_cities
+tags: human_cities, NYC, biking, urban_life
 ---
 
 It's more eco-friendly. 
