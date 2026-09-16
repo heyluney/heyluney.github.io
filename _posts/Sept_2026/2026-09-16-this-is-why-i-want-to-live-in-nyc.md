@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why I love NYC"
+permalink: /nyc.html
 tags: human_cities, NYC, biking, urban_life
 ---
 
